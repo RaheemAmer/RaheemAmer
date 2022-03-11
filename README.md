@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemamer" alt="raheemamer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Ra7eem_3amr" target="blank"><img src="https://img.shields.io/twitter/follow/ra7eem_3amr?logo=twitter&style=for-the-badge" alt="ra7eem_3amr" /></a> </p>
 
 - 🔭 I’m currently working on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
