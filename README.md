@@ -18,10 +18,10 @@
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
-- 📝 I regularly write articles on **https://dev.to/raheemamer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- 📝 I regularly write articles on **https://dev.to/raheemamer**
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
