@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing](https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing)
 
-- 👋 Listen to my podcasts [https://media.podeo.co/rss/ODE](https://media.podeo.co/rss/ODE)
-
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
 
