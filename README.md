@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
+- 📄 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
