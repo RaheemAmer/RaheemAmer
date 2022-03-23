@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development,Psychology and Philosophy**
 
-- 🌱 I’m currently learning [Mern Stack](https://github.com/RaheemAmer/Learning-MERN)
+- 🌱 I’m currently learning [Mern Stack] from the start with route academy (https://github.com/RaheemAmer/RouteAcademyTasks)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing](https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing)
 
