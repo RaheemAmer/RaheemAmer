@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raheem Amer</h1>
 <h3 align="center">A Passionate Frontend Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="raheemamer" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemamer" alt="raheemamer" /></a> </p>
 
 - 🌱 I’m currently learning Mern Stack from the start with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
