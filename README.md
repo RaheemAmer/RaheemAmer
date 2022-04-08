@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raheem Amer</h1>
+<h1 align="center">Greetings, I'm Raheem Amer</h1>
 <h3 align="center">A Passionate Frontend Web Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemamer" alt="raheemamer" /></a> </p>
