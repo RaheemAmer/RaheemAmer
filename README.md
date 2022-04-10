@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemamer" alt="raheemamer" /></a> </p>
 
-- 🌱 I’m currently learning Mern Stack from the start with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
+- 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
 - 💬 Ask me about **Web Development,Psychology and Philosophy**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing](https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1MigSIY1VcQT-CKepggAgzVgwjb6Lgp6P/view?usp=sharing)
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
