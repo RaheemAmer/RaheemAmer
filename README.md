@@ -6,7 +6,8 @@
 
 
 ## 🏆GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 ## :bowtie: My Bio:
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
