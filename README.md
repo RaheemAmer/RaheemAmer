@@ -1,5 +1,9 @@
 <h1 align="center">Greetings, I'm Raheem Amer</h1>
-<h3 align="center">A Passionate Frontend Web Developer</h3>
+<h3 align="center">
+ <p> A Passionate Frontend Web Developer<p>
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</h3>
+
 
 ## 🏆GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
@@ -20,7 +24,6 @@
 ## :love_letter: Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- BLOG-POST-LIST:END -->
 <br>
