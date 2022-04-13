@@ -1,15 +1,18 @@
 <h1 align="center">Greetings, I'm Raheem Amer</h1>
 <h3 align="center">
  <p> A Passionate Frontend Web Developer<p>
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 </h3>
 
 
 ## 🏆GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## :bowtie: My Bio:
+ <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
