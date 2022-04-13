@@ -19,7 +19,8 @@
 
 ## :love_letter: Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- 📝 I try to write articles on **https://dev.to/raheemamer**
+- 📝 I try to write articles on **https://dev.to/raheemamer**   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!-- BLOG-POST-LIST:END -->
 
 
