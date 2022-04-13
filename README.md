@@ -1,6 +1,7 @@
-<h1 align="center">Greetings, I'm Raheem Amer</h1>
+<h1 align="center"> <span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="raheemamer" /> </span>Greetings, I'm Raheem Amer
+</h1>
 <h3 align="center">
- <p> A Passionate Frontend Web Developer<p>
+ <p> A Passionate Frontend Web Developer <p>
 </h3>
 
 
@@ -71,3 +72,6 @@
 <a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
 </p>
+
+
+
