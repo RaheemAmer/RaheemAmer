@@ -29,7 +29,6 @@
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 
 <!-- BLOG-POST-LIST:END -->
-<br>
 
 ## :thought_balloon:  Languages and Tools:
 <p align="left">
