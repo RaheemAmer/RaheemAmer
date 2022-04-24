@@ -10,7 +10,7 @@
 
 
 ## :bowtie: My Bio:
- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+ <img align="right" height="250" width="375" alt="" src="https://i.gifer.com/fetch/w300-preview/c0/c05e0a986df727559354c449602105d0.gif" />
 
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
