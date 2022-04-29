@@ -10,7 +10,8 @@
 
 
 ## :bowtie: My Bio:
- <img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47molfk3ps2649xgr2m18koyumts8kt0z9a10r5d0n&rid=giphy.gif&ct=g" />
+<!--  <img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47molfk3ps2649xgr2m18koyumts8kt0z9a10r5d0n&rid=giphy.gif&ct=g" /> -->
+<a href="https://app.daily.dev/RaheemAmer"><img align="right" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=hfl" width="400" alt="Raheem Amer's Dev Card"/></a>
 
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
