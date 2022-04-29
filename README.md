@@ -10,8 +10,8 @@
 
 
 ## :bowtie: My Bio:
-<!--  <img align="right" height="250" width="375" alt="Raheem Amer's dev card" src="https://drive.google.com/file/d/1iY81JY-WCOp52D9Eo1mTkur4BIbs5t21/view?usp=sharing" />
- -->
+<img align="right" width="375" alt="Raheem Amer's dev card" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/RaheemAmer.png?raw=true"/>
+
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
