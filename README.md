@@ -9,7 +9,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## :bowtie: My Bio:
-<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="375" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=75h" width="400" alt="Raheem Amer's Dev Card"/></a>
+<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="375" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=vrw" width="400" alt="Raheem Amer's Dev Card"/></a>
+
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
