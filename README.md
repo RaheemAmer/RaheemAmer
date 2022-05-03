@@ -23,11 +23,16 @@
 
 - 📄 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
+<br><br>
+
+
 ## :love_letter: Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 
 <!-- BLOG-POST-LIST:END -->
+
+<br><br>
 
 ## :thought_balloon:  Languages and Tools:
 
@@ -41,6 +46,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br><br>
+
 
 ## Upcoming Languages and Tools:
 
@@ -56,11 +64,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br><br>
+
+
 ## 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
+
+<br><br>
+
 
 ## 📉 Activity Stats:
 <div align="center">
