@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## :bowtie: My Bio:
-<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="375" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=xmf" width="400" alt="Raheem Amer's Dev Card"/></a>
+<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="350" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=xmf" width="400" alt="Raheem Amer's Dev Card"/></a>
 
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
@@ -42,6 +42,7 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br><br>
 
 ## Upcoming Languages and Tools:
 
