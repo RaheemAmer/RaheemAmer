@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web Development,Psychology and Philosophy**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1z6M2vLmM6xSossZdE-widDYwEdg3CUNt/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-pDYWcvJSx4iLIOVCgC7BE3K3wOW69fx/view?usp=sharing)
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
