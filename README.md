@@ -70,9 +70,9 @@
 
 <br>
 
-## 📉 GitHub Activity Graph:
+<!-- ## 📉 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RaheemAmer&bg_color=noctis-minimus)  
-<br>
+<br> -->
 
 ## 🕶️ GitHub metrics:
 ![GitHub metrics](https://metrics.lecoq.io/RaheemAmer )  
