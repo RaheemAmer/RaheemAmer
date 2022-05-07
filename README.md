@@ -15,13 +15,15 @@
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
+- 📕 I'm also working on [Self-Study](https://github.com/RaheemAmer/Self-study)
+
 - 💬 Ask me about **Web Development,Psychology and Philosophy**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yrimIHX7R07kLX52OF2xZkWe8VNcvt2Q/view?usp=sharing)
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
-- 📄 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- 🙃 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ## :love_letter: Blogs posts:
 <!-- BLOG-POST-LIST:START -->
@@ -74,7 +76,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg"/>
 </div>
 
-## ✍️Random Dev Quotes:
+## ✍️ Random Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## :v: Connect with me on:
