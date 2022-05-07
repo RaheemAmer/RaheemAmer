@@ -46,7 +46,7 @@
 
 <br><br>
 
-## Upcoming Languages and Tools:
+## 🤭 Upcoming Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
@@ -59,19 +59,27 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<br><br>
+<br><br><br>
 
 
 
-## 📊GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
+## 📉 GitHub Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RaheemAmer&bg_color=noctis-minimus)  
+<br>
 
-## 📉 Activity Stats:
+## 🕶️ GitHub metrics:
+![GitHub metrics](https://metrics.lecoq.io/RaheemAmer )  
+<br>
+
+
+## 🐍 Snake Stats:
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg"/>
 </div>
