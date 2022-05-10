@@ -1,7 +1,7 @@
 <h1 align="center"> <span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="raheemamer" /> </span>Greetings, I'm Raheem Amer
 </h1>
 <h3 align="center">
- <p> A tech geek who happens to be a Frontend Web Developer <p>
+ <p> An Egyptian tech geek who happens to be a Frontend Web Developer <p>
 </h3>
 
 
