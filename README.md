@@ -25,7 +25,7 @@
 
 - 🙃 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
-## :love_letter: Blogs posts (still trying):
+## :love_letter: Blog posts (still trying):
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 
