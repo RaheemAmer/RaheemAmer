@@ -1,9 +1,13 @@
-<h1 align="center"> <span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="raheemamer" /> </span>Greetings, I'm Raheem Amer
+<h1 align="center"> 
+<span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </span>
+Greetings, I'm Raheem Amer	
+<span > <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" alt="Github Status" /> </span>
 </h1>
+<span>
+
 <h3 align="center">
  <p> An Egyptian tech geek who happens to be a Frontend Web Developer <p>
 </h3>
-
 
 ## 🏆GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
