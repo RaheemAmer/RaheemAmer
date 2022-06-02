@@ -10,7 +10,7 @@
 
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer"><img align="right" width="300" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" width="400" alt="Raheem Amer's Dev Card"/></a>
-<br>
+
 
 - 🌱 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
 
@@ -45,8 +45,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 💠 Miscellaneous
-<details>
 
 
 ## 🎵 Jamming to:
@@ -59,7 +57,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg"/>
 </div>
 
-## ✍️ Random Dev Quotes:
+## 💠 Random Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
@@ -75,4 +73,3 @@
 <a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
 </p>
-</details>
