@@ -28,17 +28,15 @@
 ## :love_letter: Blog posts and articles (still trying):
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
-
 <!-- BLOG-POST-LIST:END -->
-<br><br>
+
+
 ## :thought_balloon:  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
 
-## 🤭 Upcoming Languages and Tools:
+## 🔥 Upcoming Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nestjs,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,nodejs,express,mongodb,firebase,graphql,kubernetes,docker,aws,jenkins)](https://skillicons.dev)
-
-<br><br><br>
-
+<br>
 
 
 ## 📊 GitHub Stats:
@@ -46,7 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 🌝 Miscellaneous
+## 💠 Miscellaneous
 <details>
 
 
