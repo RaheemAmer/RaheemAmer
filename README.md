@@ -1,7 +1,6 @@
 <h1 align="center"> 
 <span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </span>
 Greetings, I'm Raheem Amer	
-<span > <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" alt="Github Status" /> </span>
 </h1>
 <span>
 
@@ -13,7 +12,9 @@ Greetings, I'm Raheem Amer
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## :bowtie: My Bio:
-<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="300" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" width="400" alt="Raheem Amer's Dev Card"/></a>
+<a href="https://app.daily.dev/RaheemAmer">
+<img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" alt="Raheem Amer's Dev Card"/>
+</a>
 
 
 - 🌱 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
