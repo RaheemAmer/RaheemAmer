@@ -40,7 +40,7 @@ Greetings, I'm Raheem Amer
 ## :thought_balloon:  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
 
-## 🤯 Extra stuff:
+## 🤯 Extra Stuff:
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,figma,ps,vscode,dotnet,wordpress,linux)](https://skillicons.dev)
 	
 ## 🔥 Upcoming Languages and Tools:
