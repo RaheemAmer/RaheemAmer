@@ -11,7 +11,7 @@
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer"><img align="right" width="320" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" width="400" alt="Raheem Amer's Dev Card"/></a>
 
-- 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
+- 🌱 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Web Development,Psychology and Philosophy**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yrimIHX7R07kLX52OF2xZkWe8VNcvt2Q/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1lTF-lIsFbUNgCdjx1CIZKjcY1IsvcdBT/view?usp=sharing)
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
