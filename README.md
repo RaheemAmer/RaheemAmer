@@ -14,7 +14,7 @@ Greetings, I'm Raheem Amer
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer">
 <img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" alt="Raheem Amer's Dev Card"/>
-</a>
+</a><br>
 
 
 - 🌱 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
