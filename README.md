@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## :bowtie: My Bio:
-<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="320" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=dy6" width="400" alt="Raheem Amer's Dev Card"/></a>
+<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="320" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" width="400" alt="Raheem Amer's Dev Card"/></a>
 
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
@@ -74,12 +74,9 @@
 <!-- ## 📉 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RaheemAmer&bg_color=noctis-minimus)  
 <br> -->
-## Miscellaneous
+## 🌝 Miscellaneous
 <details>
 
-## 🕶️ GitHub metrics:
-![GitHub metrics](https://metrics.lecoq.io/RaheemAmer)  
-<br>
 
 ## 🎵 Jamming to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=0080ff)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
