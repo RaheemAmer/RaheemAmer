@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## :bowtie: My Bio:
-<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="320" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=dy6" width="400" alt="Raheem Amer's Dev Card"/></a>
+<a href="https://app.daily.dev/RaheemAmer"><img align="right" width="320" alt="Raheem Amer's dev card" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ucu" width="400" alt="Raheem Amer's Dev Card"/></a>
 
 - 🌱 I’m currently having an apprenticeship with route academy [RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
 
@@ -44,7 +44,6 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-
 <br><br>
 
 ## 🤭 Upcoming Languages and Tools:
@@ -75,11 +74,17 @@
 <!-- ## 📉 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RaheemAmer&bg_color=noctis-minimus)  
 <br> -->
+## Miscellaneous
+<details>
 
 ## 🕶️ GitHub metrics:
 ![GitHub metrics](https://metrics.lecoq.io/RaheemAmer)  
 <br>
 
+## 🎵 Jamming to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=0080ff)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
+
+<br>
 
 ## 🐍 Snake Stats:
 <div align="center">
@@ -88,6 +93,7 @@
 
 ## ✍️ Random Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ## :v: Connect with me on:
 <p align="left">
@@ -101,3 +107,4 @@
 <a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
 </p>
+</details>
