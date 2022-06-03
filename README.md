@@ -55,7 +55,7 @@ Greetings, I'm Raheem Amer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎵 Jamming to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=0080ff)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
 
 <br>
 
