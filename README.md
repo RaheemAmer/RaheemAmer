@@ -5,7 +5,7 @@ Greetings, I'm Raheem Amer
 <span>
 
 <h3 align="center">
- <p> An Egyptian tech geek who happens to be a Frontend Web Developer <p>
+ <p> Software Engineer || Tech Geek || Lifelong Learner || Cat Father || INFJ 2w3 <p>
 </h3>
 
 ## 🏆GitHub Trophies:
