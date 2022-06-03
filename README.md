@@ -6,7 +6,7 @@ Greetings, I'm Raheem Amer
 
 <h3 align="center">
  <p> Software Engineer || Tech Geek || Lifelong Learner || Cat Father || INFJ 2w3 <p>
-<img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
+<img src="https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif">
 </h3>
 
 ## 🏆GitHub Trophies:
