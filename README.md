@@ -14,7 +14,7 @@ Greetings, I'm Raheem Amer
 
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer">
-<img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=fcq" alt="Raheem Amer's Dev Card" title="Raheem Amer's Dev Card"/>
+<img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=y5l" alt="Raheem Amer's Dev Card" title="Raheem Amer's Dev Card"/>
 <br>
 </a>
 
