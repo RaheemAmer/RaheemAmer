@@ -1,11 +1,10 @@
 <h1 align="center"> 
-<span > <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </span>
 Greetings, I'm Raheem Amer
-<a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a>
 </h1>
-<span>
 
 <h3 align="center">
+<a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a>
+<img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
  <p> Software Engineer || Tech Savvy || Lifelong Learner || Cat Dad || INFJ 2w3 <p>
 <img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
 </h3>
