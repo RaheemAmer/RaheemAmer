@@ -21,7 +21,7 @@ Greetings, I'm Raheem Amer
 <br>
 </a>
 
-- 🌎 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
+- 🌎 I’m currently having an internship with [ALX](https://github.com/RaheemAmer/ALX-Repos)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
