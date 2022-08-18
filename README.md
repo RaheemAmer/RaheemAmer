@@ -4,6 +4,7 @@ Greetings, I'm Raheem Amer
 </h1>
 <span>
 
+
 <h3 align="center">
  <p> Software Engineer || Tech Savvy || Lifelong Learner || Cat Dad || INFJ 2w3 <p>
 <img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
@@ -18,7 +19,7 @@ Greetings, I'm Raheem Amer
 <br>
 </a>
 
-- 🌱 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
+- 🌎 I’m currently having an internship with [ALX](https://www.alxafrica.com/)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
@@ -37,6 +38,15 @@ Greetings, I'm Raheem Amer
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 <!-- BLOG-POST-LIST:END -->
 
+### 🌱 Problem Solving website progress [Novice]
+Platform | Number of problems | Repo
+------------ | ------------- | -------------
+👉 Edabit, Sololearn & CoderHub | ✅ 80 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
+👉 CoderByte | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/CoderByte)
+👉 HackerRank | ✅ 1 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
+👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
+
+<br />
 
 ## :thought_balloon:  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
