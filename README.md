@@ -2,9 +2,12 @@
 Greetings, I'm Raheem Amer
 </h1>
 
-<h3 align="center">
+<div align="center"> 
 <a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a>
 <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</div>
+
+<h3 align="center">
  <p> Software Engineer || Tech Savvy || Lifelong Learner || Cat Dad || INFJ 2w3 <p>
 <img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
 </h3>
