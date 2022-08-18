@@ -38,7 +38,7 @@ Greetings, I'm Raheem Amer
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 <!-- BLOG-POST-LIST:END -->
 
-### 🌱 Problem Solving website progress [Novice]
+## 🌱 Problem Solving website progress [Novice]	
 Platform | Number of problems | Repo
 ------------ | ------------- | -------------
 👉 Edabit, Sololearn & CoderHub | ✅ 80 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
