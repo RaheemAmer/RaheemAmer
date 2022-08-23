@@ -43,7 +43,7 @@ Greetings, I'm Raheem Amer
 ## 🌱 Problem Solving progress [Novice]	
 Platform | Number of problems | Repo
 ------------ | ------------- | -------------
-👉 Edabit, Sololearn & CoderHub | ✅ 80 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
+👉 Edabit, Sololearn & CoderHub | ✅ 81 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
 👉 CoderByte | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/CoderByte)
 👉 HackerRank | ✅ 1 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
 👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
