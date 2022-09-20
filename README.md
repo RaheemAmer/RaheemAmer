@@ -63,6 +63,8 @@ Platform | Number of problems | Repo
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false" alt="RaheemAmer_Stats" />
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&langs_count=10&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎵 Jamming to:
