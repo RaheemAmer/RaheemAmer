@@ -3,7 +3,7 @@ Hi, I'm Raheem Amer
 </h1>
 
 <div align="center"> 
-<a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a>
+<!-- <a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a> -->
 <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </div>
 
