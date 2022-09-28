@@ -54,7 +54,7 @@ Platform | Number of problems | Repo
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
 
 ## 🤯 Extra Stuff:
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,figma,ps,vscode,dotnet,wordpress,linux,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,figma,ps,vscode,dotnet,wordpress,linux,php)](https://skillicons.dev)
 	
 ## 🔥 Upcoming Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nestjs,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,nodejs,express,mongodb,firebase,graphql,kubernetes,docker,aws,jenkins)](https://skillicons.dev)
