@@ -4,7 +4,11 @@ Hi, I'm Raheem Amer
 
 <div align="center"> 
 <!-- <a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a> -->
-<img src="https://user-badge.committers.top/egypt/RaheemAmer.svg" alt="Committer Ranking" /> 
+
+  <a href="https://committers.top/egypt" target="blank">
+	<img src="https://user-badge.committers.top/egypt/RaheemAmer.svg" alt="Committer Ranking" />
+  </a>
+  
 <img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </div>
 
