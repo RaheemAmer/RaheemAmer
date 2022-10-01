@@ -11,7 +11,7 @@ Hi, I'm Raheem Amer
 </div>
 
 <h3 align="center">
- <p> Software Engineer || Tech Savvy || Lifelong Learner || Cat Dad || INFJ 2w3 <p>
+ <p> Software Engineer || Open Source Enthusiast || Lifelong Learner || Cat Dad || INFJ 2w3 <p>
  
 <img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
 
