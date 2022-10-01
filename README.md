@@ -17,22 +17,6 @@ Hi, I'm Raheem Amer
 
 </h3>
 
-<div align="center">
-<h2>
-Connect with me on:
-</h2>
-
-<p>
-<a href="https://twitter.com/ra7eem_3amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ra7eem_3amr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raheem-amer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
-</p>
-</div>
-
-<br>
-
 ## 🏆GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=6)
 
@@ -101,4 +85,23 @@ Platform | Number of problems | Repo
 ## 💠 Random Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 💯 Recent activity:
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+<div align="center">
+	<h2>
+		Connect with me on:
+	</h2>
+
+<p>
+<a href="https://twitter.com/ra7eem_3amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ra7eem_3amr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raheem-amer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
+</p>
+</div>
+
+<br>
