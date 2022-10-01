@@ -3,8 +3,6 @@ Hi, I'm Raheem Amer
 </h1>
 
 <div align="center"> 
-<!-- <a href="https://commits.top/egypt"><img alt="Commits Ranking" src="https://enm7q7dmqihq2xd.m.pipedream.net"/></a> -->
-
   <a href="https://committers.top/egypt" target="_blank">
 	<img src="https://user-badge.committers.top/egypt/RaheemAmer.svg" alt="Committer Ranking" />
   </a>
