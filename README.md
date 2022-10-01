@@ -85,11 +85,6 @@ Platform | Number of problems | Repo
 ## 💠 Random Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 💯 Recent activity:
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <div align="center">
 	<h2>
 		Connect with me on:
