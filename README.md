@@ -26,7 +26,6 @@ Hi, I'm Raheem Amer
 </div>
 
 
-
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer">
 <img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ohd" alt="Raheem Amer's Dev Card" title="Raheem Amer's Dev Card"/>
@@ -53,7 +52,15 @@ Hi, I'm Raheem Amer
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+## 📊 GitHub Stats:
+<div align="center">
+<a href="https://github.com/RaheemAmer">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
+
+</div>
 
 ## :thought_balloon:  Languages and Tools:
 
@@ -80,20 +87,7 @@ Hi, I'm Raheem Amer
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nestjs,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,nodejs,express,mongodb,firebase,graphql,kubernetes,docker,aws,jenkins)](https://skillicons.dev)
 
 </div>
-
-
 <br>
-
-
-## 📊 GitHub Stats:
-<div align="center">
-<a href="https://github.com/RaheemAmer">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</a>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
-
-</div>
 
 ## 🌱 Problem Solving progress [Novice]	
 
@@ -106,18 +100,6 @@ Platform | Number of problems | Repo
 👉 HackerRank | ✅ 2 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
 👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
 
-</div>
-
-## 🎵 Jamming to:
-<div align="center">
-  <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0" />
-</div>
-
-<br>
-
-## 🐍 Snake Stats:
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg"/>
 </div>
 
 ## 💠 Random Dev Quotes:
