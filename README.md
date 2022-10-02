@@ -21,7 +21,7 @@ Hi, I'm Raheem Amer
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=6&&hide_border=true")
 
 </div>
 
@@ -52,23 +52,6 @@ Hi, I'm Raheem Amer
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-
-## 🌱 Problem Solving progress [Novice]	
-
-<div align="center">
-
-Platform | Number of problems | Repo
------------- | ------------- | -------------
-👉 Edabit, Sololearn & CoderHub | ✅ 82 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
-👉 CoderByte | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/CoderByte)
-👉 HackerRank | ✅ 2 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
-👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
-
-</div>
 
 <br />
 
@@ -104,17 +87,31 @@ Platform | Number of problems | Repo
 
 ## 📊 GitHub Stats:
 <div align="center">
-<a href="https://github.com/captainwaheed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+<a href="https://github.com/RaheemAmer">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </a>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
 
 </div>
 
+## 🌱 Problem Solving progress [Novice]	
+
+<div align="center">
+
+Platform | Number of problems | Repo
+------------ | ------------- | -------------
+👉 Edabit, Sololearn & CoderHub | ✅ 82 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
+👉 CoderByte | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/CoderByte)
+👉 HackerRank | ✅ 2 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
+👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
+
+</div>
 
 ## 🎵 Jamming to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
+<div align="center">
+  <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0" />
+</div>
 
 <br>
 
@@ -124,7 +121,11 @@ Platform | Number of problems | Repo
 </div>
 
 ## 💠 Random Dev Quotes:
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <div align="center">
 	<h2>
@@ -139,5 +140,3 @@ Platform | Number of problems | Repo
 <a href="https://www.leetcode.com/raheemamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" /></a>
 </p>
 </div>
-
-<br>
