@@ -6,7 +6,7 @@ Hi, I'm Raheem Amer
   <a href="https://committers.top/egypt" target="_blank">
 	<img src="https://user-badge.committers.top/egypt/RaheemAmer.svg" alt="Committer Ranking" />
   </a>
-
+<img src="https://komarev.com/ghpvc/?username=raheemamer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </div>
 
 <h3 align="center">
@@ -15,11 +15,6 @@ Hi, I'm Raheem Amer
 <img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
 
 </h3>
-
-## 🎵 Jamming to:
-<div align="center">
-  <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0" />
-</div>
 
 ## 🏆GitHub Trophies:
 
@@ -113,11 +108,15 @@ Platform | Number of problems | Repo
 
 </div>
 
+## 🎵 Jamming to:
+<div align="center">
+  <img width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0" />
+</div>
+
 <div align="center">
 	<h2>
 		Connect with me on:
 	</h2>
-
 <p>
 <a href="https://twitter.com/ra7eem_3amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ra7eem_3amr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" /></a>
