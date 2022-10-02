@@ -18,7 +18,14 @@ Hi, I'm Raheem Amer
 </h3>
 
 ## 🏆GitHub Trophies:
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=RaheemAmer&theme=nord&no-frame=false&no-bg=false&margin-w=6)
+
+</div>
+
+
 
 ## :bowtie: My Bio:
 <a href="https://app.daily.dev/RaheemAmer">
@@ -41,11 +48,19 @@ Hi, I'm Raheem Amer
 - 🙃 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ## :love_letter: Blog posts and articles (still trying):
+
 <!-- BLOG-POST-LIST:START -->
 - 📝 I try to write articles on **https://dev.to/raheemamer**   
 <!-- BLOG-POST-LIST:END -->
 
+
+
+
+
 ## 🌱 Problem Solving progress [Novice]	
+
+<div align="center">
+
 Platform | Number of problems | Repo
 ------------ | ------------- | -------------
 👉 Edabit, Sololearn & CoderHub | ✅ 82 Problems & counting | ⭕️ [Repo]( https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Edabit%2C%20SoloLearn%20%26%20CoderHub)
@@ -53,24 +68,50 @@ Platform | Number of problems | Repo
 👉 HackerRank | ✅ 2 Problem & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/HackerRank)
 👉 LeetCode | ✅ 2 Problems & counting | ⭕️ [Repo](https://github.com/RaheemAmer/Learn-Programming-and-Problem-Solving/tree/main/Problem-Solving/Leetcode)
 
+</div>
+
 <br />
 
 ## :thought_balloon:  Languages and Tools:
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
 
+</div>
+
+
 ## 🤯 Extra Stuff:
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,php,figma,ps,vscode,dotnet,wordpress,linux)](https://skillicons.dev)
+
+</div>
+
 	
 ## 🔥 Upcoming Languages and Tools:
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nestjs,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,nodejs,express,mongodb,firebase,graphql,kubernetes,docker,aws,jenkins)](https://skillicons.dev)
+
+</div>
+
+
 <br>
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RaheemAmer&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&theme=react&hide_border=false" alt="RaheemAmer_Stats" />
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&langs_count=10&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<a href="https://github.com/captainwaheed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</a>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
+
+</div>
+
 
 ## 🎵 Jamming to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=abcbd0)](https://spotify-github-profile.vercel.app/api/view?uid=3i8e12yxyujr39rpkqzpjcwru&redirect=true)
