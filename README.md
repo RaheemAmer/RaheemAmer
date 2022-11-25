@@ -43,7 +43,7 @@ Hi, I'm Raheem Amer
 
 - 📫 How to reach me **raheem.amer22@gmail.com**
 
-- 🙃 Currently reading [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- 🙃 Currently reading [Head First JavaScript Programming by Eric Freeman and Elisabeth Robson](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X?&linkCode=sl1&tag=artmapincdbah-20&linkId=a7a02de0abefc60d825cee848a2fcd73&language=en_US&ref_=as_li_ss_tl)
 
 ## :love_letter: Blog posts and articles (still trying):
 
