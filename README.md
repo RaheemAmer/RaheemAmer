@@ -31,7 +31,7 @@ Hello, I'm Raheem Amer
 <br>
 </a>
 
-- 🌎 I’m currently having an internship with [ALX](https://github.com/RaheemAmer/ALX-Repos)
+- 🌎 I’m currently having an internship with [Kalbonyan-Elmarsos](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch)
 
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
