@@ -110,7 +110,7 @@ Platform | Number of problems | Repo
 
 ## 🎵 Jamming to:
 <div align="center">
-  <img width="35%" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3i8e12yxyujr39rpkqzpjcwru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" />
+  <img width="35%" src="https://spotify-github-profile.vercel.app/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" />
   
 </div>
 
