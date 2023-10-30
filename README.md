@@ -119,7 +119,6 @@ Platform | Number of problems | Repo
 
 <div align="center">
 <p>
-<a href="https://twitter.com/ra7eem_3amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ra7eem_3amr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/raheem-amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raheem-amer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raheem_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" /></a>
