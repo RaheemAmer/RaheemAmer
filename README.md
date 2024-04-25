@@ -31,8 +31,6 @@ Hello, I'm Raheem Amer
 <br>
 </a>
 
-- 🌎 I’m currently working as a technical consultant at [Sutherland](https://www.sutherlandglobal.com/)
-
 - 🔭 I used to work on [ArtDeco](https://github.com/abdallah-emam/clientArtDeco)
 
 - 📕 I'm also working on [Self-Study](https://github.com/RaheemAmer/Self-study)
